@@ -1,2 +1,8 @@
-# getFileSize
-This is a C++ program that takes a program as an input and returns the amount of Bytes in that program
+# getFileSize - C++ Program to get file size in Bytes.
+Created By Peter Downie - peterdownie@live.com
+
+2023-09-24:
+
+use getFileSize to the file size.
+You can add this into c++ programs using the .h and .o file
+
