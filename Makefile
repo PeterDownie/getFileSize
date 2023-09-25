@@ -3,6 +3,3 @@ getFileSize: getFileSize.o main.cpp
 
 getFileSize.o: getFileSize.h getFileSize.cpp
 	g++ -c getFileSize.cpp -o getFileSize.o	
-
-clean:
-	rm getFileSize getFileSize.o
